@@ -1,0 +1,22 @@
+<annotation>
+	<path>dataset\images\val\IMG_0957_结果.jpg</path><folder>JPEG</folder>
+	<filename>IMG_0957_结果.jpg</filename>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sidewalk</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>872</ymin>
+			<xmax>3024</xmax>
+			<ymax>4032</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,19 @@
+<annotation>
+  <path>dataset\images\val\000000490117.jpg</path><folder>JPEG</folder>
+  <filename>000000490117.jpg</filename>
+  <size>
+    <width>640</width>
+    <height>426</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>cat</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>278</xmin>
+      <ymin>70</ymin>
+      <xmax>387</xmax>
+      <ymax>168</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,22 @@
+<annotation>
+	<path>dataset\images\train\IMG_0763_结果_结果.jpg</path><folder>JPEG</folder>
+	<filename>IMG_0763_结果_结果.jpg</filename>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sidewalk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>894</ymin>
+			<xmax>2170</xmax>
+			<ymax>2020</ymax>
+		</bndbox>
+	</object>
+</annotation>

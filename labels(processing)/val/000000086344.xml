@@ -1,0 +1,29 @@
+<annotation>
+  <path>dataset\images\val\000000086344.jpg</path><folder>JPEG</folder>
+  <filename>000000086344.jpg</filename>
+  <size>
+    <width>427</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>person</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>149</xmin>
+      <ymin>551</ymin>
+      <xmax>162</xmax>
+      <ymax>576</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>223</xmin>
+      <ymin>547</ymin>
+      <xmax>236</xmax>
+      <ymax>579</ymax>
+    </bndbox>
+  </object>
+</annotation>

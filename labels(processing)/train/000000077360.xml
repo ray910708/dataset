@@ -1,0 +1,29 @@
+<annotation>
+  <path>dataset\images\train\000000077360.jpg</path><folder>JPEG</folder>
+  <filename>000000077360.jpg</filename>
+  <size>
+    <width>640</width>
+    <height>461</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>motorcycle</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>415</xmin>
+      <ymin>165</ymin>
+      <xmax>568</xmax>
+      <ymax>310</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>motorcycle</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>510</xmin>
+      <ymin>204</ymin>
+      <xmax>640</xmax>
+      <ymax>339</ymax>
+    </bndbox>
+  </object>
+</annotation>

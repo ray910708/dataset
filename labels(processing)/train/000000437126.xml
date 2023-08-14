@@ -1,0 +1,19 @@
+<annotation>
+  <path>dataset\images\train\000000437126.jpg</path><folder>JPEG</folder>
+  <filename>000000437126.jpg</filename>
+  <size>
+    <width>500</width>
+    <height>378</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>cat</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>161</xmin>
+      <ymin>15</ymin>
+      <xmax>436</xmax>
+      <ymax>251</ymax>
+    </bndbox>
+  </object>
+</annotation>

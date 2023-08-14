@@ -1,0 +1,22 @@
+<annotation>
+	<path>dataset\images\train\IMG_1017_结果.jpg</path><folder>JPEG</folder>
+	<filename>IMG_1017_结果.jpg</filename>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sidewalk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>662</xmin>
+			<ymin>746</ymin>
+			<xmax>2449</xmax>
+			<ymax>3933</ymax>
+		</bndbox>
+	</object>
+</annotation>

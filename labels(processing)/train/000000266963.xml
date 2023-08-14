@@ -1,0 +1,29 @@
+<annotation>
+  <path>dataset\images\train\000000266963.jpg</path><folder>JPEG</folder>
+  <filename>000000266963.jpg</filename>
+  <size>
+    <width>640</width>
+    <height>429</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>person</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>435</xmin>
+      <ymin>110</ymin>
+      <xmax>640</xmax>
+      <ymax>379</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>226</xmin>
+      <ymin>82</ymin>
+      <xmax>278</xmax>
+      <ymax>255</ymax>
+    </bndbox>
+  </object>
+</annotation>

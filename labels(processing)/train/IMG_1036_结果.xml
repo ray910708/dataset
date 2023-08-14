@@ -1,0 +1,34 @@
+<annotation>
+	<path>dataset\images\train\IMG_1036_结果.jpg</path><folder>JPEG</folder>
+	<filename>IMG_1036_结果.jpg</filename>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sidewalk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1253</xmin>
+			<ymin>1042</ymin>
+			<xmax>1840</xmax>
+			<ymax>1829</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>636</xmin>
+			<ymin>1498</ymin>
+			<xmax>2757</xmax>
+			<ymax>4002</ymax>
+		</bndbox>
+	</object>
+</annotation>
